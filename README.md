@@ -6,8 +6,6 @@ Aplicação de página única para gestão financeira pessoal e familiar, com re
 
 ## Experimentar
 
-A aplicação está disponível em `https://srloga.github.io/finnest/` .
-
 Para testar localmente, faz o download do repositório e abre `index.html` no navegador.
 
 ## Tecnologias
