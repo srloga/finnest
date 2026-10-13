@@ -1,8 +1,8 @@
 # FinNest — Controlo Financeiro
 
-Aplicação de página única para gestão financeira pessoal e familiar, com registo de receitas e despesas, acompanhamento de saldos, gráficos e importação/exportação de dados.
-
 ![FinNest Homepage](finnest.jpg)
+
+Aplicação de página única para gestão financeira pessoal e familiar, com registo de receitas e despesas, acompanhamento de saldos, gráficos e importação/exportação de dados.
 
 ## Experimentar
 
