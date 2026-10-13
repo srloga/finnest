@@ -2,7 +2,7 @@
 
 Aplicação de página única para gestão financeira pessoal e familiar, com registo de receitas e despesas, acompanhamento de saldos, gráficos e importação/exportação de dados.
 
-![Spotify Clone Preview](spotify.jpg)
+![FinNest Homepage](finnest.jpg)
 
 ## Experimentar
 
